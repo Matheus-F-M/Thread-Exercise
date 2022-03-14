@@ -20,21 +20,21 @@ Então as threads são unificadas e os resultados são mostrados pela thread pri
 ## Usage:
 ### 1.Intalation
 ``` sh
-git clone https://github.com/Matheus-F-M/Thread-Exercise
-cd Thread-Exercise
+$ git clone https://github.com/Matheus-F-M/Thread-Exercise
+$ cd Thread-Exercise
 ```
 
 ### 2.Compile
 ``` sh
-make
+$ make
 ```
 
 ### 3.Runing
 ``` sh
-make run
+$ make run
 ```
 
 ### 4.Cleaning
 ``` sh
-make clean
+$ make clean
 ```
