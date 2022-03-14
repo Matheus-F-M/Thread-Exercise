@@ -2,7 +2,7 @@
 Atividade de Threads, Infraestrutura de Software, 2022.1, 3ºPeríodo, 13/03/2022
 
 ## Objective
-Realizar operações aritiméticas numa lista de números inteiros. 
+Realizar operações aritiméticas numa lista de números inteiros via threads. 
 
 ## Functioning
 O código pede 2 entradas: A quantidade de números e a lista de números de mesma quantidade.
