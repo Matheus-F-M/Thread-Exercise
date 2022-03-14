@@ -10,7 +10,7 @@ O código pede 2 entradas:
 2. A lista de números de mesma quantidade.
 
 
-Após as entradas são criadas 3 threads que adquirem da lista: 
+Após as entradas, são criadas 3 threads que adquirem da lista: 
 1. A média aritimética.
 2. O menor número.
 3. O maior número.
