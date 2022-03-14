@@ -21,9 +21,8 @@ int main()
     
     printf("Digite a quantidade de valores:");
     scanf("%d", &n);
-
+    printf("Digite a lista de números:\n");
     for (int i = 0; i < n; i++){
-	    printf("%dº número:",i+1);
 		scanf("%d",&numbers[i]);
 	}
 
