@@ -24,7 +24,7 @@ int main()
     printf("Digite a lista de números:\n");
     for (int i = 0; i < n; i++){
 		scanf("%d",&numbers[i]);
-	}
+    }
 
     pthread_create(&t_01, NULL, &a_average, NULL);
     pthread_join(t_01, NULL);
