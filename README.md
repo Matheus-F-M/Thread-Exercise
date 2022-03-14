@@ -21,6 +21,7 @@ Então as threads são unificadas e os resultados são mostrados pela thread pri
 ### 1.Intalation
 ``` sh
 git clone https://github.com/Matheus-F-M/Thread-Exercise
+cd Thread-Exercise
 ```
 
 ### 2.Compile
