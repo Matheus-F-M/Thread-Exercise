@@ -8,23 +8,23 @@ Realizar operações aritiméticas numa lista de números inteiros via threads.
 O código pede 2 entradas: A quantidade de números e a lista de números de mesma quantidade.\n
 Após as entradas são criadas 3 threads que adquirem da lista: A média aritimética, o menor número e o maior número.
 Então as threads são unificadas e os resultados são mostrados pela thread principal: "main()".
-
-## Intalation
+## Usage:
+### 1.Intalation
 ``` sh
 git clone https://github.com/Matheus-F-M/Thread-Exercise
 ```
 
-## Compile
+### 2.Compile
 ``` sh
 make
 ```
 
-## Runing
+### 3.Runing
 ``` sh
 make run
 ```
 
-## Cleaning
+### 4.Cleaning
 ``` sh
 make clean
 ```
